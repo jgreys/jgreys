@@ -1,4 +1,4 @@
-## Hi! My name is John Greys 👋
+## Hi! My name is John Greys 👋🏻
 
 I’m a Full Stack Developer currently residing in 🇰🇷 Seoul. I work with established brands and startups from all over the world to create interactive experiences and help launch digital services and products across a range of different platforms.
 
