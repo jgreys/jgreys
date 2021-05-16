@@ -4,7 +4,7 @@ I’m a Full Stack Developer currently residing in 🇰🇷 Seoul. I work with e
 
 I have been fortunate enough to work with some incredible clients over the past 10 years in cities across the world, such as 🇫🇷 Paris, 🇰🇷 Seoul, 🇯🇵 Tokyo and 🇦🇺 Melbourne.
 
-At present, I work at [Wargaming 🎮](https://wargaming.net) and involved in my own projects, such as [Korea for WooCommerce](https://github.com/jgreys/korea-for-woocommerce), [WooCommerce Korean Payment Gateways](https://greys.co/products/category/gateways/?utm_source=extensions&utm_medium=description_tab&utm_content=gateways&utm_campaign=readme), Korean Authentication Services for WooCommerce and a few more which I hope to share with you very soon.
+At present, I'm involved in my own projects, such as [Korea for WooCommerce](https://github.com/jgreys/korea-for-woocommerce), [WooCommerce Korean Payment Gateways](https://greys.co/products/category/gateways/?utm_source=extensions&utm_medium=description_tab&utm_content=gateways&utm_campaign=readme), Korean Authentication Services for WooCommerce and a few more which I hope to share with you very soon.
 
 All in all, I love what I do & I couldn’t ask for more.
 
