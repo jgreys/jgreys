@@ -1,14 +1,14 @@
-## Hi! My name is John Greys 👋🏻
+## Hi! My name is Greys
 
-I’m a Lead Software Engineer currently residing in 🇰🇷 Seoul. I work with established brands and startups from all over the world to create interactive experiences and help launch digital services and products across a range of different platforms.
+👋🏻 Hi, I’m a Lead Software Engineer based in 🇰🇷 Seoul, with a passion for developing tailored e-commerce solutions and interactive experiences across a variety of platforms.
 
-I have been fortunate enough to work with some incredible clients over the past 10 years in cities across the world, such as 🇫🇷 Paris, 🇩🇪 Berlin, 🇰🇷 Seoul, 🇯🇵 Tokyo and 🇦🇺 Melbourne.
+Over the past 10+ years, I've had the opportunity to collaborate with established brands and startups in vibrant cities such as 🇫🇷 Paris, 🇩🇪 Berlin, 🇯🇵 Tokyo, 🇦🇺 Melbourne, and of course, here in 🇰🇷 Seoul.
 
-At present, I'm involved in my own projects, such as [Korea for WooCommerce](https://github.com/jgreys/korea-for-woocommerce), [WooCommerce Korean Payment Gateways](https://greys.co/products/category/gateways/?utm_source=extensions&utm_medium=description_tab&utm_content=gateways&utm_campaign=readme), Korean Authentication Services for WooCommerce and a few more which I hope to share with you very soon.
+At present, I'm focused on my own projects, such as [koreakit](https://koreakit.com), which provides innovative e-commerce solutions tailored for the Korean market, including specialized payment systems, localized solutions and KakaoTalk notifications. Additionally, I'm working on [wpkit](https://wpkit.com) to streamline WordPress development, and [shopkit](https://shopkit.co.kr), an e-commerce platform enabling businesses to create their own online stores. I’m excited to share more soon!
 
 All in all, I love what I do & I couldn’t ask for more.
 
-📫 Want me to help create a custom WordPress theme or plugin, design or perhaps you require development help? Feel free to reach me on so we can further discuss your needs.
+📫 Feel free to reach out if you need help creating custom WordPress themes or plugins, or if you're looking for development expertise to bring your digital products to life.
 
 #
 
